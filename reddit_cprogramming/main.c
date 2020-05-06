@@ -1,10 +1,11 @@
 /*
-* Project		:	Quarantine Fun
-* File			:	main.c
-* Programmer	:	Frederic Chappuis
-* First Version	:	May 2020
-* Description	:	C project based on this image: https://i.redd.it/326eaj6z07x41.jpg
-*					and this reddit conversation: https://www.reddit.com/r/C_Programming/comments/geqass/if_answer_is_no_how_can_i_turn_back_to_if/
+* Project	: Quarantine Fun
+* File		: main.c
+* Programmer	: Frederic Chappuis
+* First Version	: May 2020
+* Description	: C project based on this image: https://i.redd.it/326eaj6z07x41.jpg
+*		  and this reddit conversation: 
+*		  https://www.reddit.com/r/C_Programming/comments/geqass/if_answer_is_no_how_can_i_turn_back_to_if/
 */
 
 #include <stdio.h>
